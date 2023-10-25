@@ -3,11 +3,7 @@ package org.owasp.webgoat.application;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
-/**
- * Singleton which is created on context startup
- *
- * @author rlawson
- */
+
 public class Application {
 
     private static final Application INSTANCE = new Application();
