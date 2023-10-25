@@ -20,12 +20,15 @@ public class Application {
     private String build = "local";
     private String name = "WebGoat";
 
-    /**
-     * @return the version
-     */
+    
     public String getVersion() {
         return version;
     }
+
+     public String getVersion01() {
+        return version;
+    }
+
 
   
     public void setVersion(String version) {
