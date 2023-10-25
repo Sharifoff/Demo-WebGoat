@@ -51,9 +51,7 @@ public class Application {
         }
     }
 
-    /**
-     * @return the name
-     */
+   
     public String getName() {
         return name;
     }
