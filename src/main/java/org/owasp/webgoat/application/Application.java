@@ -25,9 +25,7 @@ public class Application {
         return version;
     }
 
-     public String getVersion01() {
-        return version;
-    }
+    
 
 
   
