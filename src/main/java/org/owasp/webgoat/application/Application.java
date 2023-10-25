@@ -27,9 +27,7 @@ public class Application {
         return version;
     }
 
-    /**
-     * @param version the version to set
-     */
+  
     public void setVersion(String version) {
         if (StringUtils.isNotBlank(version)) {
             this.version = version;
